@@ -56,3 +56,36 @@ pd.crosstab(df["City"],df["Customer type"])
 df.corr()
 sns.heatmap(df.corr(),annot=True)
 ```
+# OUTPUT
+## Initial Data
+![OUTPUT](/q1.png)
+
+## Analysing Data
+![OUTPUT](/q2.png)
+## Checking Non-Null values
+![OUTPUT](/q3.png)
+## Checking the outliers
+![OUTPUT](/q4.png)
+## Removing the outliers
+![OUTPUT](/q5.png)
+## Value count
+![OUTPUT](/q6.png)
+## Countplot Graphs
+![OUTPUT](/q7.png)
+
+![OUTPUT](/q8.png)
+![OUTPUT](/q9.png)
+![OUTPUT](/q10.png)
+## Displot Graphs
+![OUTPUT](/q11.png)
+![OUTPUT](/q12.png)
+![OUTPUT](/q13.png)
+## Crosstab Values
+![OUTPUT](/q14.png)
+## Correlation Graph
+![OUTPUT](/q15.png)
+## Heat map
+![OUTPUT](/q16.png)
+
+# RESULT
+EDA on the given data set is performed successfully.
